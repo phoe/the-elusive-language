@@ -2,7 +2,7 @@
 
 ![Preview image](preview.png)
 
-A small Common Lisp-related art project that I did back in 2017 and decided to upload here for posterity. And for viewing pleasure.
+A small Common Lisp-related art project that I did back in 2017. It was exhibited at European Lisp Symposium 2017 in Brussels, and I've decided to upload it here for posterity. And for viewing pleasure.
 
 The [PDF file](the-elusive-language.pdf) contains all logos along with a bit of commentary from me. The [`png`](png/) folder contains (1000px)² versions of these images.
 
